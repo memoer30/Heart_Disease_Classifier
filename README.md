@@ -163,7 +163,6 @@ Heart_Disease_Classifier/
 ├── end_to_end_heart_disease_classification.ipynb  # Complete ML workflow with EDA
 ├── Heart_Disease_Classifier.ipynb                 # Standard Random Forest implementation
 ├── Heart_Disease_Classifier_Pipeline.ipynb        # Production-ready Pipeline version
-├── heart-disease.csv                              # Dataset (303 patient records)
 └── README.md                                      # This file
 ```
 
